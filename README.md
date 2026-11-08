@@ -1,4 +1,4 @@
-# Supernova-Brands
+# Supernova-Brands Dashboard
 <img width="1158" height="631" alt="image" src="https://github.com/user-attachments/assets/6d5d48e4-c239-4caf-9a8c-b37756fbea92" />
 <img width="1161" height="630" alt="image" src="https://github.com/user-attachments/assets/2ec5063a-70d2-4118-bbe4-2c4c2ec2589a" />
 <img width="1143" height="626" alt="image" src="https://github.com/user-attachments/assets/cca9e09e-464c-4fb4-8b6e-4acaced358ea" />
