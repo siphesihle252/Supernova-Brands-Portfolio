@@ -1,0 +1,8 @@
+channel_id,channel_name,channel_category,integration_type
+1,B2B Enterprise Portal,B2B Retail,Direct EDI
+2,Shopify Direct E-Com,E-Commerce,REST API
+3,Takealot Marketplace,Marketplace API,Webhook
+4,WooCommerce Retailer Hub,E-Commerce,REST API
+5,Direct Wholesale Orders,B2B Retail,Manual Import
+6,Regional Partner API,Marketplace API,GraphQL
+7,Mobile App Storefront,E-Commerce,REST API

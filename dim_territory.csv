@@ -1,0 +1,6 @@
+territory_id,country_name,region_code,distribution_hub,market_maturity
+1,South Africa,ZA-CPT,Montague Gardens,Established
+2,Namibia,NA-WDH,Windhoek Hub,Established
+3,Botswana,BW-GBE,Gaborone Hub,Established
+4,Zambia,ZM-LUN,Lusaka Hub,Expanding
+5,Mauritius,MU-PLU,Port Louis Hub,Expanding

@@ -1,0 +1,5 @@
+department_id,department_name,cost_center_code
+1,Sales,CC-SLS-100
+2,Finance,CC-FIN-200
+3,Ops,CC-OPS-300
+4,Customer Support,CC-SUP-400
